@@ -16,11 +16,11 @@ The repository contains the following files:
 
   <dt>Extraction performed on March 2, 2026.</dt>
 	<dd><ul>
-		<li>search_ACM (110).bib</li>
-		<li>search_IEEE (399).bib</li>
-		<li>search_ScienceDirect (63).bib</li>
-		<li>search_Scopus (960).bib</li>
-		<li>search_WoS (252).bib</li>
+		<li>search_ACM (4).bib</li>
+		<li>search_IEEE (48).bib</li>
+		<li>search_ScienceDirect (19).bib</li>
+		<li>search_Scopus (86).bib</li>
+		<li>search_WoS (17).bib</li>
 	</ul></dd>
 
 </dl>
