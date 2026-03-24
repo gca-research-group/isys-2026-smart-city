@@ -27,7 +27,7 @@ The repository contains the following files:
 
 <b>Dataset</b>
 <ul>
-<li>dataset.ods</li>
+<li>dataset_en.ods</li>
 </ul>
 
 <b>File resulting from the selection and classification process, containing 702 unique references</b>
